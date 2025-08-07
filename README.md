@@ -17,7 +17,7 @@ obtain IP addresses and other network configuration details from a DHCP server.
 ### Activity 1: Set up the environment by adding Devices to the Workspace
 - From the End Devices section and the Network Devices section, drag and drop:
   - PCs for each VLAN/subnet, and add a Server to configure as the DHCP server.
-  - ARouter (2911) and  a Switch (2960).
+  - A Router (2911) and  a Switch (2960).
 -  Physically Connect Devices
   - Connect the following devices using the copper straight-through cable
     - Router (GigabitEthernet 0/0) to the Switch (FastEthernet 0/24).
